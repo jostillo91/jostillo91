@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Joshua Castillo
-- 👀 I’m interested in [Blank] and other blank related activites. the blankier the better.
-- 🌱 I’m currently learning Java, HTML, CSS, Python, Javascript, Liquid. 
-- 💞️ I’m looking to collaborate on Ecommerce mainly
-- 📫 How to reach me jostillo91@gmail.com
+# 👋 Hi, I’m Joshua Castillo
+
+- 👀 Interested in web development and eCommerce solutions  
+- 🌱 Currently learning Java, HTML, CSS, JavaScript, React, and Liquid  
+- 💻 Experience with Shopify and front-end development  
+- 💞️ Open to collaborating on eCommerce projects and front-end applications  
+- 📫 Contact: **jostillo91@gmail.com**  
+
 
 <!---
 jostillo91/jostillo91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
